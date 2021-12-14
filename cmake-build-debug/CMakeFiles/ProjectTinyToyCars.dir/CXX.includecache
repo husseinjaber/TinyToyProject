@@ -1,0 +1,88 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/22 study/2222 uni france/s1/advanced data struct/ProjectTinyToyCars/Edge.h
+Vector2D.h
+D:/22 study/2222 uni france/s1/advanced data struct/ProjectTinyToyCars/Vector2D.h
+vector
+-
+GL/glut.h
+-
+string
+-
+
+D:/22 study/2222 uni france/s1/advanced data struct/ProjectTinyToyCars/Polygon.h
+Vector2D.h
+D:/22 study/2222 uni france/s1/advanced data struct/ProjectTinyToyCars/Vector2D.h
+vector
+-
+GL/glut.h
+-
+string
+-
+
+D:/22 study/2222 uni france/s1/advanced data struct/ProjectTinyToyCars/Triangle.h
+Vector2D.h
+D:/22 study/2222 uni france/s1/advanced data struct/ProjectTinyToyCars/Vector2D.h
+Edge.h
+D:/22 study/2222 uni france/s1/advanced data struct/ProjectTinyToyCars/Edge.h
+vector
+-
+GL/glut.h
+-
+iostream
+-
+
+D:/22 study/2222 uni france/s1/advanced data struct/ProjectTinyToyCars/Vector2D.h
+math.h
+-
+
+D:/22 study/2222 uni france/s1/advanced data struct/ProjectTinyToyCars/glutWindow.h
+iostream
+-
+string
+-
+cassert
+-
+cmath
+-
+GL/freeglut.h
+-
+GL/glut.h
+-
+
+D:/22 study/2222 uni france/s1/advanced data struct/ProjectTinyToyCars/main.cpp
+iostream
+-
+cstdlib
+-
+vector
+-
+array
+-
+glutWindow.h
+D:/22 study/2222 uni france/s1/advanced data struct/ProjectTinyToyCars/glutWindow.h
+Triangle.h
+D:/22 study/2222 uni france/s1/advanced data struct/ProjectTinyToyCars/Triangle.h
+mesh.h
+D:/22 study/2222 uni france/s1/advanced data struct/ProjectTinyToyCars/mesh.h
+
+D:/22 study/2222 uni france/s1/advanced data struct/ProjectTinyToyCars/mesh.h
+Triangle.h
+D:/22 study/2222 uni france/s1/advanced data struct/ProjectTinyToyCars/Triangle.h
+Vector2D.h
+D:/22 study/2222 uni france/s1/advanced data struct/ProjectTinyToyCars/Vector2D.h
+Edge.h
+D:/22 study/2222 uni france/s1/advanced data struct/ProjectTinyToyCars/Edge.h
+Polygon.h
+D:/22 study/2222 uni france/s1/advanced data struct/ProjectTinyToyCars/Polygon.h
+vector
+-
+limits
+-
+

@@ -1,0 +1,3 @@
+D:/22 study/2222 uni france/s1/advanced data struct/ProjectTinyToyCars/cmake-build-debug/CMakeFiles/ex56.dir
+D:/22 study/2222 uni france/s1/advanced data struct/ProjectTinyToyCars/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/22 study/2222 uni france/s1/advanced data struct/ProjectTinyToyCars/cmake-build-debug/CMakeFiles/rebuild_cache.dir

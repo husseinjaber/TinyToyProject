@@ -1,0 +1,1 @@
+  -L"D:/22 study/2222 uni france/s1/advanced data struct/ProjectTinyToyCars/../glutInterface/cmake-build-debug"  -lOpenGL32 -lglu32 -lfreeglut -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
